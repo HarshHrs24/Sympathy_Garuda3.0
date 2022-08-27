@@ -1,0 +1,42 @@
+.cardWrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 6rem;
+}
+.buttonWrap {
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.tabButton {
+    width: 60px;
+    height: 60px;
+    background: #fff;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.tabButton:last-child {
+    margin-left: 20px;
+}
+
+.active {
+    background: rgb(210, 210, 210);
+}
+
+.actionButtonWrap {
+    margin-top: 40px;
+}
+
+.bottomParagraph {
+    color: #0B6B6B;
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 20px;
+    text-align: center;
+}

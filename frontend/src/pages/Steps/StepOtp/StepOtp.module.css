@@ -1,0 +1,19 @@
+.cardWrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 6 rem;
+}
+
+.bottomParagraph {
+    color: #0B6B6B;
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 20px;
+    text-align: center;
+}
+
+
+.actionButtonWrap {
+    margin-top: 40px;
+}
