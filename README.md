@@ -81,8 +81,20 @@
 
 We often see that a group is better than one when dealing with mental health problem
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 Mental health is not just the absence of a mental disorder. It’s found in people of all countries, and  societies.
+
+A survey in Indonesia suggests that Centralised funding for Indonesian mental health is only 1% of the national health budget and health expenditure is around only 3% of GDP.
+
+Thus we are coming with an online free solution for self group therapy sessions named Sympathy.
+
+Well, what is  group therapy
+group therapy is a type of psychotherapy in which several people converse, express themselves, and motivate each other at the same time.
+
+Often we see that people who are shy and introvert are not confident enough to speak in public openly, but our platform ‘sympathy’ have one  special feature which allows the user to remain anonymous so that user can express themselves freely .
+
+Our platform provide you an online solution for your worries 
+It can give you an open environment to speak about your problems without revealing your identity
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
