@@ -2,14 +2,9 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 <!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-
+***  Garuda 3.0 Hackathon. It is a self group session platform.
+*** In sympathy users can create rooms to socialize themselves in an open environment to discuss about their problems without revealing your identity.
+*** It helps shy and introverts who are not confident enough to speak in public openly.
 
 <!-- PROJECT SHIELDS -->
 <!--
@@ -86,14 +81,10 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
+We often see that a group is better than one when dealing with mental health problem
+
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+Mental health is not just the absence of a mental disorder. It’s found in people of all countries, and  societies.
 
 Use the `BLANK_README.md` to get started.
 
@@ -105,15 +96,14 @@ Use the `BLANK_README.md` to get started.
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Next][Next.js]][Next-url]
+
+* [![MongoDB][MongoDB]][Mongo-url]
 * [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
+* [![Express][Express.js]][Express-url]
+* [![Node][Node.dev]][Node-url]
+* [![Javascript][Javascript]][Javascript-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
