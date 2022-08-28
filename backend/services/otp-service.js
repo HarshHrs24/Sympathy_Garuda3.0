@@ -1,8 +1,8 @@
 
 const crypto = require('crypto');
 const hashService = require('./hash-service');
-const smsSid = 'AC963fefd75cbc3fa1863c1222f657fb9c';
-const smsAuthToken ='b65f3d9087c273f69fd5bb567e212b13';
+const smsSid = '';
+const smsAuthToken ='';
 const twilio = require('twilio')(smsSid, smsAuthToken, {
     lazyLoading: true,
 });
@@ -17,7 +17,7 @@ class OtpService{
     async sendBySms(phone, otp) {
         return await twilio.messages.create({
             to: phone,
-            from: '+17077304182',
+            from: ' ',
             body: `Your Sympathy OTP is ${otp}`,
         });
     }
