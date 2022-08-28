@@ -84,7 +84,6 @@ We often see that a group is better than one when dealing with mental health pro
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 Mental health is not just the absence of a mental disorder. It’s found in people of all countries, and  societies.
 
-Use the `BLANK_README.md` to get started.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
