@@ -105,9 +105,6 @@ It can give you an open environment to speak about your problems without reveali
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-
 * [![MongoDB][MongoDB]][Mongo-url]
 * [![React][React.js]][React-url]
 * [![Express][Express.js]][Express-url]
@@ -115,6 +112,8 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![Javascript][Javascript]][Javascript-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
+* WebRTC
+* Twilio
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
