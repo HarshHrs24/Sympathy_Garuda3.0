@@ -25,7 +25,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/HarshHrs24/Sympathy_Garuda3.0">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images_readme/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Symapathy</h3>
