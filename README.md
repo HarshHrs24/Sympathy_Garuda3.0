@@ -18,7 +18,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-<!-- [![MIT License][license-shield]][license-url] -->
+[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -239,8 +239,8 @@ Project Link: [https://github.com/HarshHrs24/Sympathy_Garuda3.0](https://github.
 [stars-url]: https://github.com/HarshHrs24/Sympathy_Garuda3.0/stargazers
 [issues-shield]: https://img.shields.io/github/issues/HarshHrs24/Sympathy_Garuda3.0.svg?style=for-the-badge
 [issues-url]: https://github.com/HarshHrs24/Sympathy_Garuda3.0/issues
-<!-- [license-shield]: https://img.shields.io/github/license/HarshHrs24/Sympathy_Garuda3.0.svg?style=for-the-badge
-[license-url]: https://github.com/HarshHrs24/Sympathy_Garuda3.0/blob/master/LICENSE.txt -->
+[license-shield]: https://img.shields.io/github/license/HarshHrs24/Sympathy_Garuda3.0.svg?style=for-the-badge
+[license-url]: https://github.com/HarshHrs24/Sympathy_Garuda3.0/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/shivansh-rastogi-04bb27225
 [product-screenshot]: images_readme/screenshot.png
