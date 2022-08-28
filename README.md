@@ -253,7 +253,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [React-url]: https://reactjs.org/
 [Express.js]: https://img.shields.io/badge/express.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
 [Express-url]: https://expressjs.com/
-[Node.js]: https://img.shields.io/badge/node.js-35495E?style=for-the-badge&logo=angular&logoColor=white
+[Node.js]: https://img.shields.io/badge/node.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
 [Node-url]: https://nodejs.org/
 [Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
 [Svelte-url]: https://svelte.dev/
