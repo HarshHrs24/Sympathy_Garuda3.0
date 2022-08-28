@@ -15,6 +15,8 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 [![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
@@ -120,7 +122,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
+
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
@@ -132,8 +134,6 @@ This is an example of how to list things you need to use the software and how to
   ```
 
 ### Installation
-
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
 1. Clone the repo
    ```sh
@@ -149,27 +149,25 @@ _Below is an example of how you can instruct your audience on installing and set
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+<!-- ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+ -->
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
+- [x] Creation of HomePage
+- [x] Authentication and OTP Generation using Twilio
+- [ ] Using WebRTC for communications system
+- [ ] Making subpages for rooms
+- [ ] Making Article Section
+    
 See the [open issues](https://github.com/HarshHrs24/Sympathy_Garuda3.0) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -195,18 +193,18 @@ Don't forget to give the project a star! Thanks again!
 
 
 <!-- LICENSE -->
-## License
+<!-- ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+ -->
 
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/Shivansh_120310) - email@example.com
+Your Name - [Shivansh Rastogi](shivansh.rastogi2002@gmail.com) - email@example.com
 
 Project Link: [https://github.com/HarshHrs24/Sympathy_Garuda3.0](https://github.com/your_username/repo_name)
 
@@ -217,7 +215,6 @@ Project Link: [https://github.com/HarshHrs24/Sympathy_Garuda3.0](https://github.
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
 * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
