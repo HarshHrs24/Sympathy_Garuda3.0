@@ -68,7 +68,7 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
+<!--     <li><a href="#license">License</a></li> -->
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -105,15 +105,15 @@ It can give you an open environment to speak about your problems without reveali
 
 ### Built With
 
-* [![MongoDB][MongoDB]][Mongo-url]
 * [![React][React.js]][React-url]
 * [![Express][Express.js]][Express-url]
-* [![Node][Node.dev]][Node-url]
-* [![Javascript][Javascript]][Javascript-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 * WebRTC
 * Twilio
+* MongoDB
+* NodeJs
+* JavaScript
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
