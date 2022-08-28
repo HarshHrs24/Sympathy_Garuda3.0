@@ -200,7 +200,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Your Name - [@your_twitter](https://twitter.com/Shivansh_120310) - email@example.com
 
 Project Link: [https://github.com/HarshHrs24/Sympathy_Garuda3.0](https://github.com/your_username/repo_name)
 
