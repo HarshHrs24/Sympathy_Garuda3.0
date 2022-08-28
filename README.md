@@ -38,9 +38,9 @@
     <br />
     <a href="https://youtu.be/JvNsH80WaCE">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/HarshHrs24/Sympathy_Garuda3.0/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/HarshHrs24/Sympathy_Garuda3.0/issues">Request Feature</a>
   </p>
 </div>
 
