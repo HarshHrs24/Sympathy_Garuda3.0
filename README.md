@@ -247,7 +247,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/shivansh-rastogi-04bb27225
 [product-screenshot]: images_readme/screenshot.png
-[MongoDB.js]: https://img.shields.io/badge/mongodb-35495E?style=for-the-badge&logo=nextdotjs&logoColor=white
+[MongoDB.js]: https://img.shields.io/badge/mongodb-35495F?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Mongo-url]: [https://mongo.org/](https://www.mongodb.com/)
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
