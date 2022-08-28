@@ -30,7 +30,7 @@
     <img src="images_readme/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Symapathy</h3>
+  <h3 align="center">Sympathy</h3>
 
   <p align="center">
    Garuda Hackathon 3.0
