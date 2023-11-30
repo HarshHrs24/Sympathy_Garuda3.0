@@ -203,7 +203,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [Shivansh Rastogi](shivansh.rastogi2002@gmail.com) - shivansh.rastogi2002@gmail.com
+Your Name - [Harsh Soni](sonih8085@gmail.com) - sonih8085@gmail.com
 
 Project Link: [https://github.com/HarshHrs24/Sympathy_Garuda3.0](https://github.com/your_username/repo_name)
 
